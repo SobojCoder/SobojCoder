@@ -1,3 +1,5 @@
+<img width="1983" height="793" alt="bannar" src="https://github.com/user-attachments/assets/d27bf711-5c9d-4775-bae6-a40f6a2cf9d1" />
+
 <h1 align="center">Hi 👋, I'm Soboj Paul</h1>
 <h3 align="center">Aspiring Software Developer 🚀</h3>
 
