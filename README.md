@@ -6,9 +6,9 @@
 
 - 📫 How to reach me **sobojpaul.me@gmail.com**
 - 🎓 CSE Undergraduate
--💻 Learning JavaScript, TypeScript & React
--🧩 Interested in Problem Solving
--🚀 Building projects and improving every day
+- 💻 Learning JavaScript, TypeScript & React
+- 🧩 Interested in Problem Solving
+- 🚀 Building projects and improving every day
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
